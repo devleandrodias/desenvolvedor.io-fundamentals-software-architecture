@@ -1,0 +1,12 @@
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.deps.json
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.runtimeconfig.json
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.runtimeconfig.dev.json
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.dll
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.pdb
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.csprojAssemblyReference.cache
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.csproj.CoreCompileInputs.cache
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.AssemblyInfoInputs.cache
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.AssemblyInfo.cs
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.dll
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.pdb
+E:\desenvolvedor.io-fundamento-arquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.genruntimeconfig.cache
