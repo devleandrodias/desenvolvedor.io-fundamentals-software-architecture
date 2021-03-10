@@ -1,1 +1,0 @@
-# desenvolvedor.io-fundamento-arquitetura
